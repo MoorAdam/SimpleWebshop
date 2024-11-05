@@ -1,0 +1,164 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Smart Thermostat",
+            "category": "Climate Control",
+            "price": 99.99,
+            "description": "A smart thermostat that allows you to control your home's temperature remotely.",
+            "image": "thermostat.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Smart Bulb Starter Kit",
+            "category": "Lighting",
+            "price": 59.99,
+            "description": "Set of smart bulbs with a hub, offering customizable lighting options through a mobile app.",
+            "image": "smart_bulbs.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Smart Doorbell",
+            "category": "Security",
+            "price": 129.99,
+            "description": "A video doorbell that allows you to see and communicate with visitors through your smartphone.",
+            "image": "doorbell.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Smart Lock",
+            "category": "Security",
+            "price": 89.99,
+            "description": "Enhance your home security with a smart lock that can be controlled via a mobile app.",
+            "image": "smart_lock.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Smart Camera System",
+            "category": "Security",
+            "price": 199.99,
+            "description": "A set of smart cameras for monitoring and securing your home with remote access.",
+            "image": "security_cameras.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Smart Plugs (Set of 2)",
+            "category": "Power Control",
+            "price": 29.99,
+            "description": "Control your electronic devices remotely with these smart plugs compatible with voice assistants.",
+            "image": "smart_plugs.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Smart Speaker",
+            "category": "Audio",
+            "price": 79.99,
+            "description": "A voice-controlled smart speaker with built-in virtual assistant for playing music and managing tasks.",
+            "image": "smart_speaker.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Smart TV",
+            "category": "Entertainment",
+            "price": 499.99,
+            "description": "Upgrade your viewing experience with a smart TV that offers streaming services and voice control.",
+            "image": "smart_tv.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Smart Coffee Maker",
+            "category": "Kitchen",
+            "price": 129.99,
+            "description": "A programmable coffee maker that you can control remotely, ensuring a fresh cup every morning.",
+            "image": "coffee_maker.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Smart Refrigerator",
+            "category": "Kitchen",
+            "price": 899.99,
+            "description": "A refrigerator with smart features like temperature control and inventory tracking through an app.",
+            "image": "smart_refrigerator.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Smart Vacuum Cleaner",
+            "category": "Cleaning",
+            "price": 149.99,
+            "description": "Effortlessly clean your home with a smart vacuum that can be controlled via your smartphone.",
+            "image": "smart_vacuum.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Smart Mirror",
+            "category": "Personal Care",
+            "price": 179.99,
+            "description": "A mirror with built-in smart features like weather updates, calendar, and fitness tracking.",
+            "image": "smart_mirror.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Smart Garage Door Opener",
+            "category": "Security",
+            "price": 109.99,
+            "description": "Control and monitor your garage door remotely with this smart garage door opener.",
+            "image": "garage_opener.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Smart Window Blinds",
+            "category": "Climate Control",
+            "price": 69.99,
+            "description": "Automate your home's lighting and privacy with these smart window blinds controllable through an app.",
+            "image": "window_blinds.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Smart Plant Monitor",
+            "category": "Home & Garden",
+            "price": 49.99,
+            "description": "Keep your plants healthy with a smart monitor that tracks soil moisture and sunlight levels.",
+            "image": "plant_monitor.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Smart Pet Feeder",
+            "category": "Pet Care",
+            "price": 89.99,
+            "description": "Automate your pet's feeding schedule with this smart pet feeder controlled through a mobile app.",
+            "image": "pet_feeder.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Smart Humidifier",
+            "category": "Climate Control",
+            "price": 59.99,
+            "description": "Maintain optimal humidity levels in your home with a smart humidifier that syncs with your preferences.",
+            "image": "humidifier.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Smart Air Purifier",
+            "category": "Health",
+            "price": 129.99,
+            "description": "Improve your indoor air quality with a smart air purifier that can be controlled remotely.",
+            "image": "air_purifier.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Smart Curtain System",
+            "category": "Home & Garden",
+            "price": 79.99,
+            "description": "Automate your curtains with this smart system that provides convenience and energy efficiency.",
+            "image": "curtain_system.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Smart Water Leak Detector",
+            "category": "Security",
+            "price": 39.99,
+            "description": "Protect your home from water damage with this smart detector that alerts you to leaks in real-time.",
+            "image": "water_leak_detector.jpg"
+        }
+    ]
+}
